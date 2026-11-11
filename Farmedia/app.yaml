@@ -1,0 +1,6 @@
+---
+kind: wasmer.io/App.v0
+name: farmediapolbeng
+package: amaramrii2304/farmediapolbeng
+scaling:
+  mode: single_concurrency
